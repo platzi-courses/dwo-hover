@@ -1,0 +1,12 @@
+body {
+    background: lightgreen;
+    font-family: sans-serif;
+}
+
+.post {
+    border: 10px solid gray;
+    border-radius: 25px;
+    background: white;
+    padding: 20px;
+    text-align: center;
+}
